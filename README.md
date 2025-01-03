@@ -7,7 +7,7 @@
 
 1. Since this project is built on ImageMagicka powerfull library, First you need to install [ImageMagicka](https://imagemagick.org/script/download.php#windows)
 
-2. For your first run to the application you need to start it as Adminstrator in order to add it to the FileExplorer Context Menu
+2. For your first run to the application you need to start it as Adminstrator in order to add it to the FileExplorer Context Menu (to remove it, just star it again as admin)
 
 3. Enjoy converting any number of images to a PNG with a single click
 
