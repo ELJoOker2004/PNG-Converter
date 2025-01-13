@@ -3,6 +3,10 @@
 
 **Converts any image format to a PNG with a single click through your explorer context menu**
 
+### Showcase
+
+![Showcase](./showcase.gif)
+
 ### Usage
 
 1. Since this project is built on ImageMagicka powerfull library, First you need to install [ImageMagicka](https://imagemagick.org/script/download.php#windows)
